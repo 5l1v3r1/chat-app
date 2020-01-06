@@ -1,0 +1,10 @@
+C:\Users\Kira\Documents\GitHub\chat-app-example\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Kira\Documents\GitHub\chat-app-example\Server\Server\bin\Debug\Server.exe
+C:\Users\Kira\Documents\GitHub\chat-app-example\Server\Server\bin\Debug\Server.pdb
+C:\Users\Kira\Documents\GitHub\chat-app-example\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Kira\Documents\GitHub\chat-app-example\Server\Server\obj\Debug\Server.Server.resources
+C:\Users\Kira\Documents\GitHub\chat-app-example\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Kira\Documents\GitHub\chat-app-example\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Kira\Documents\GitHub\chat-app-example\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Documents\GitHub\chat-app-example\Server\Server\obj\Debug\Server.exe
+C:\Users\Kira\Documents\GitHub\chat-app-example\Server\Server\obj\Debug\Server.pdb
